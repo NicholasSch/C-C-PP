@@ -8,7 +8,7 @@ A reactive, state-machine driven replication of the classic electronic memory ga
 
 You can test this entire embedded systems build immediately inside your browser without configuring physical hardware components:
 
-👉 **[Launch Live ESP32 Wokwi Simulation Setup]([https://wokwi.com/](https://wokwi.com/projects/342477906400772690))**
+👉 **[Launch Live ESP32 Wokwi Simulation Setup](https://wokwi.com/projects/342477906400772690)** 
 
 ---
 
