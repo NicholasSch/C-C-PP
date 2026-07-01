@@ -1,0 +1,17 @@
+# Compiled Executables (Windows, Mac, Linux)
+*.exe
+*.out
+*.app
+scheduler_sim
+main
+
+# Object files and build artifacts
+*.o
+*.obj
+
+# Editor-specific configurations (contains local workspace settings)
+.vscode/
+
+# Temporary or log files
+*.log
+.DS_Store
